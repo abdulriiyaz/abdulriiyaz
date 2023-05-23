@@ -54,7 +54,7 @@
 <h2> My GitHub Stats </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdulriiyaz&count_private=true&show_icons=true&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdulriiyaz&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulriiyaz&theme=default" />
